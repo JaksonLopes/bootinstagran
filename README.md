@@ -1,2 +1,2 @@
 # bootinstagran
-boot para que faz vários comentários em publicação no Instagram
+boot para que fazer vários comentários em publicação no Instagram
