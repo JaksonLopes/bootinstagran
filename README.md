@@ -1,2 +1,2 @@
 # bootinstagran
-boot para que faz vários comentários em publicação no Instagram
+boot desenvolvido com Python ,com objetivo de efetuar vários comentário em uma publicação no Instagram
